@@ -1,5 +1,4 @@
-# Machine-learning-from-scratch-python
-My own implementations  of some popular Machine learning algorithms in python
+# ID3 Decision Tree Classifier from Scratch Using Python
 
-[This repository is in progress]
----
+## Author: Christeen T Jose
+
